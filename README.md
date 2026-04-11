@@ -1,16 +1,101 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Dvargas2332/Dvargas2332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Diego Alonso Vargas Almengor
+### Full Stack Developer · Cybersecurity Enthusiast · Costa Rica 🇨🇷
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Vargas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diego-vargas-almengor-5ba024240/)
+[![Freelancer](https://img.shields.io/badge/Freelancer-Vargas2332-29B2FE?style=flat&logo=freelancer)](https://www.freelancer.com/u/Vargas2332)
+[![Email](https://img.shields.io/badge/Email-vargas.almengor%40gmail.com-red?style=flat&logo=gmail)](mailto:vargas.almengor@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About me / Sobre mí
+
+**EN** — Full Stack Developer with experience building SaaS platforms, mobile apps, and hotel management systems. Background in IT support and cybersecurity. Available for freelance projects and remote positions.
+
+**ES** — Desarrollador Full Stack con experiencia en plataformas SaaS, aplicaciones móviles y sistemas de gestión hotelera. Base en soporte técnico IT y ciberseguridad. Disponible para proyectos freelance y posiciones remotas.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Database & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Tools**
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+---
+
+## 🚀 Featured Projects / Proyectos Destacados
+
+### 🏨 [PMS Hotel — Kazehana Cloud](https://github.com/Dvargas2332/PMs-Hotel)
+> SaaS hotel management platform | Node.js · TypeScript · Docker · JWT · PostgreSQL
+
+Plataforma hotelera centralizada con módulos de reservas, restaurante, POS, inventario y facturación.
+
+---
+
+### 📅 [Melon — Appointment App](https://github.com/Dvargas2332/Appointment.)
+> Mobile app for scheduling appointments | Expo React Native · NestJS · Prisma · Docker
+
+[![Demo](https://img.shields.io/badge/📱%20Demo-Expo%20Go-black?style=flat)](https://expo.dev/preview/update?message=demo+melon&updateRuntimeVersion=0.1.0&createdAt=2026-04-11T20%3A12%3A19.807Z&slug=melon&projectId=7b2a1627-3bee-4a94-af6d-6fc5dcbd58a9&group=152d35c7-ae9e-4d64-9e48-946176f7dbf6)
+
+---
+
+### 🌸 [Kazehana Cloud PMS — Landing Page](https://github.com/Dvargas2332/Kazehana-Static-Website)
+> Static landing page | HTML · CSS · JavaScript · GitHub Pages · Multilenguaje
+
+[![Live](https://img.shields.io/badge/🌐%20Live-GitHub%20Pages-blue?style=flat)](https://dvargas2332.github.io/Kazehana-Static-Website/)
+
+---
+
+### 🎌 [Animemori — WordPress Plugin & Theme](https://github.com/Dvargas2332/animemori)
+> Anime community platform | PHP · WordPress · MySQL · CI/CD
+
+---
+
+## 💼 Available for / Disponible para
+
+✅ Freelance projects · Proyectos freelance  
+✅ Remote positions · Posiciones remotas  
+✅ SaaS development · Desarrollo SaaS  
+✅ Mobile apps · Aplicaciones móviles  
+✅ IT Support & Cybersecurity consulting  
+
+---
+
+## 📫 Contact / Contacto
+
+| | |
+|---|---|
+| 📧 Email | vargas.almengor@gmail.com |
+| 💼 LinkedIn | [Diego Vargas Almengor](https://www.linkedin.com/in/diego-vargas-almengor-5ba024240/) |
+| 🌐 Freelancer | [Vargas2332](https://www.freelancer.com/u/Vargas2332) |
+
+---
+
+<div align="center">
+
+*"Building software that solves real problems."*
+
+</div>
