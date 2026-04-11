@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Vargas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diego-vargas-almengor-5ba024240/)
 [![Freelancer](https://img.shields.io/badge/Freelancer-Vargas2332-29B2FE?style=flat&logo=freelancer)](https://www.freelancer.com/u/Vargas2332)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Dvargas2332-494649?style=flat&logo=hackerone)](https://hackerone.com)
 [![Email](https://img.shields.io/badge/Email-vargas.almengor%40gmail.com-red?style=flat&logo=gmail)](mailto:vargas.almengor@gmail.com)
 
 </div>
@@ -13,9 +14,9 @@
 
 ## 👨‍💻 About me / Sobre mí
 
-**EN** — Full Stack Developer with experience building SaaS platforms, mobile apps, and hotel management systems. Background in IT support and cybersecurity. Available for freelance projects and remote positions.
+**EN** — Full Stack Developer and Cybersecurity Enthusiast with experience building SaaS platforms, mobile apps, and hotel management systems. Active in bug bounty programs on HackerOne and practicing web security through PortSwigger labs. Background in IT support. Available for freelance projects and remote positions.
 
-**ES** — Desarrollador Full Stack con experiencia en plataformas SaaS, aplicaciones móviles y sistemas de gestión hotelera. Base en soporte técnico IT y ciberseguridad. Disponible para proyectos freelance y posiciones remotas.
+**ES** — Desarrollador Full Stack y entusiasta de la ciberseguridad con experiencia en plataformas SaaS, aplicaciones móviles y sistemas de gestión hotelera. Activo en programas de bug bounty en HackerOne y practicando seguridad web en laboratorios de PortSwigger. Base en soporte técnico IT. Disponible para proyectos freelance y posiciones remotas.
 
 ---
 
@@ -43,6 +44,30 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+**🔐 Cybersecurity**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
+![WPScan](https://img.shields.io/badge/WPScan-464646?style=flat)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
+
+---
+
+## 🔐 Cybersecurity / Ciberseguridad
+
+**EN** — Actively learning ethical hacking and web application security:
+- 🔍 **Network reconnaissance** with Nmap
+- 🕵️ **WordPress auditing** with WPScan
+- 🐛 **Web app pentesting** with Burp Suite
+- 🧪 **Practicing** on PortSwigger Web Security Academy labs
+- 🏆 **Bug Bounty** — Active on HackerOne (reports submitted & under review)
+
+**ES** — Aprendiendo hacking ético y seguridad en aplicaciones web:
+- 🔍 **Reconocimiento de redes** con Nmap
+- 🕵️ **Auditoría WordPress** con WPScan
+- 🐛 **Pentesting web** con Burp Suite
+- 🧪 **Práctica** en laboratorios de PortSwigger Web Security Academy
+- 🏆 **Bug Bounty** — Activo en HackerOne con reportes enviados y en revisión
 
 ---
 
@@ -76,11 +101,12 @@ Plataforma hotelera centralizada con módulos de reservas, restaurante, POS, inv
 
 ## 💼 Available for / Disponible para
 
-✅ Freelance projects · Proyectos freelance  
-✅ Remote positions · Posiciones remotas  
-✅ SaaS development · Desarrollo SaaS  
-✅ Mobile apps · Aplicaciones móviles  
-✅ IT Support & Cybersecurity consulting  
+✅ Freelance projects · Proyectos freelance
+✅ Remote positions · Posiciones remotas
+✅ SaaS development · Desarrollo SaaS
+✅ Mobile apps · Aplicaciones móviles
+✅ IT Support & Cybersecurity consulting
+✅ Bug Bounty & Security audits
 
 ---
 
@@ -91,11 +117,12 @@ Plataforma hotelera centralizada con módulos de reservas, restaurante, POS, inv
 | 📧 Email | vargas.almengor@gmail.com |
 | 💼 LinkedIn | [Diego Vargas Almengor](https://www.linkedin.com/in/diego-vargas-almengor-5ba024240/) |
 | 🌐 Freelancer | [Vargas2332](https://www.freelancer.com/u/Vargas2332) |
+| 🏆 HackerOne | Active bug bounty hunter |
 
 ---
 
 <div align="center">
 
-*"Building software that solves real problems."*
+*"Building software that solves real problems. Breaking things to make them safer."*
 
 </div>
