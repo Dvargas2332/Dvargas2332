@@ -117,7 +117,7 @@ Plataforma hotelera centralizada con módulos de reservas, restaurante, POS, inv
 | 📧 Email | vargas.almengor@gmail.com |
 | 💼 LinkedIn | [Diego Vargas Almengor](https://www.linkedin.com/in/diego-vargas-almengor-5ba024240/) |
 | 🌐 Freelancer | [Vargas2332](https://www.freelancer.com/u/Vargas2332) |
-| 🏆 HackerOne | Active bug bounty hunter |
+| 🏆 Bugcrowd | Active bug bounty hunter |
 
 ---
 
