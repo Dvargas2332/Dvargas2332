@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Vargas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diego-vargas-almengor-5ba024240/)
 [![Freelancer](https://img.shields.io/badge/Freelancer-Vargas2332-29B2FE?style=flat&logo=freelancer)](https://www.freelancer.com/u/Vargas2332)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Dvargas2332-494649?style=flat&logo=hackerone)](https://hackerone.com)
+[![BugCrowd](https://img.shields.io/badge/BugCrowd-Dvargas2332-494649?style=flat&logo=bugcrowd)](https://bugcrowd.com)
 [![Email](https://img.shields.io/badge/Email-vargas.almengor%40gmail.com-red?style=flat&logo=gmail)](mailto:vargas.almengor@gmail.com)
 
 </div>
